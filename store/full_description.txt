@@ -1,0 +1,19 @@
+Cuentas claras en la mesa. Divide la cuenta del restaurante y la propina entre todos en segundos, sin crear cuenta y sin complicaciones.
+
+PARTES IGUALES
+• Escribe el total, elige la propina (0, 10, 15, 20 % u otro porcentaje) y el número de personas.
+• Ve cuánto paga cada quien, la propina y el total.
+• Opción de redondear hacia arriba para pagar pesos enteros.
+
+POR CONSUMO
+• Agrega a las personas y los platillos.
+• Asigna cada platillo a quien lo comparte: la app lo reparte en partes iguales entre ellos.
+• La propina se reparte en proporción a lo que consumió cada uno.
+• Gráfica de barras con lo que paga cada persona.
+
+EXTRAS
+• Copia el resumen con un toque para mandarlo por chat.
+• Modo claro y oscuro.
+• Sin registro y sin cuenta; tus datos no salen del teléfono.
+
+Los cálculos son informativos. Verifica siempre el total con tu ticket.

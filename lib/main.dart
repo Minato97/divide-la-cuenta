@@ -4,6 +4,7 @@ import 'ads.dart';
 import 'equal_page.dart';
 import 'items_page.dart';
 
+import 'app_theme.dart';
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   AdService.instance.init();
@@ -19,12 +20,8 @@ class App extends StatelessWidget {
     return MaterialApp(
       title: 'Divide la Cuenta',
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(colorSchemeSeed: seed, useMaterial3: true),
-      darkTheme: ThemeData(
-        colorSchemeSeed: seed,
-        brightness: Brightness.dark,
-        useMaterial3: true,
-      ),
+      theme: appTheme(seed, Brightness.light),
+      darkTheme: appTheme(seed, Brightness.dark),
       home: const HomePage(),
     );
   }
